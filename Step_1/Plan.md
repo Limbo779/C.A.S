@@ -10,3 +10,11 @@
 ### 24/12/2025
 - today i'm gonna try to work around with FFT in numpy and librosa
 - and do a basic FFT (or FT) to remove the noise from the Audio
+
+### 25/12/2025
+- successfully Applied FFT and
+- got the info of sine waves in the signal like freq,amp,phase
+
+### 27/12/2025
+- i was able to convert the music to numeric array 
+- but applying FFT and re constructing the original sound is very difficult
